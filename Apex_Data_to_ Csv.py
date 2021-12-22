@@ -17,7 +17,7 @@ company = re.compile(r"^[\s]+.*?")
 dubai = re.compile(r"^P.O. Box 961029 Invoice Date [\d,][\d,][\d]*?")
 address = re.compile(r"^Fort Worth, Texas  76161-1029.*?")
 box = re.compile(r"^.* \d")
-street = re.compile(r"^[\d]* .*")
+street = re.compile(r"^[\d]{3} .*")
 
 pickup = re.compile(r"^Pickup .*, .*")
 Drop = re.compile(r"^Dropoff .*, .*")
@@ -25,7 +25,7 @@ DriverName = re.compile(r"Driver.*")
 TruckNo = re.compile(r"Truck Number.*") 
 Amount = re.compile(r"Invoice Total .*")
 
-Inv = namedtuple('Inv', 'DRIVER TRUCKNUMBER SHIP_DATE DELIVER_DATE ORIGIN ORIGIN_STATE  DESTINATION DEST_STATE  TOTAL_RATE ')
+Inv = namedtuple('Inv', 'DRIVER TRUCKNUMBER SHIP_DATE DELIVER_DATE ORIGIN ORIGIN_STATE  DESTINATION DEST_STATE  TOTAL_RATE COMPANY')
 line_items =[]
 
 
@@ -36,10 +36,10 @@ def textToCsv():
             if DriverName.search(line):
                 na1, na2, na3, na4, na5, *Drivers1 = line.split()
                 DriveName =  " ".join(Drivers1)
-                print(DriveName)
+                # print(DriveName)
             elif TruckNo.match(line):
                 TruckNumber = line.split()[-1]
-                print(TruckNumber)
+                # print(TruckNumber)
             elif pickup.match(line):
                 title, *placeName, pickDate = line.split()
                 pickPlace = " ".join(placeName)
@@ -54,12 +54,14 @@ def textToCsv():
                 DropState = re.sub("\d", "", DropState1)
             elif company.search(line):
                 spaceless =(line.strip())
+                # print(spaceless)
                 if not dubai.search(spaceless) and not address.search(spaceless) and not box.match(spaceless) and not street.match(spaceless):
                     billing = spaceless
+                    # print(billing)
             elif Amount.match(line):
                 rateAmount = line.split()[-2]
-                line_items.append(Inv(DriveName,TruckNumber,pickDate,dropDate,PickTown,pickState,DropTown,DropState,rateAmount ))
+                line_items.append(Inv(DriveName,TruckNumber,pickDate,dropDate,PickTown,pickState,DropTown,DropState,rateAmount, billing))
     df = pd.DataFrame(line_items)
     print(df.head)
-    df.to_csv('apx.csv', ",")
+    df.to_csv('apx.csv', index=False)
 textToCsv()
