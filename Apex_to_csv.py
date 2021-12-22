@@ -13,7 +13,7 @@ from selenium.webdriver.common.keys import Keys
 
 #extract text page by page
 apex = open("usa.txt", "w")
-path = r"US-State-Abbreviations.pdf"
+path = r"document.pdf"
 
 
 company = re.compile(r"^[\s]+.*?")

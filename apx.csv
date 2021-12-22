@@ -1,0 +1,26 @@
+,DRIVER,TRUCKNUMBER,SHIP_DATE,DELIVER_DATE,ORIGIN,ORIGIN_STATE,DESTINATION,DEST_STATE,TOTAL_RATE
+0,Abdoulaye,614,12/13/2021,12/13/2021,Wichita,Kansas,Kansas City,Kansas,$593.10
+1,Abdoulaye,614,12/13/2021,12/13/2021,Edgerton,Kansas,Wichita,Kansas,$603.00
+2,Abdoulaye,614,12/12/2021,12/12/2021,Wichita,Kansas,Kansas City,Kansas,$593.10
+3,Abdoulaye,614,12/12/2021,12/12/2021,Edgerton,Kansas,Wichita,Kansas,$603.00
+4,Abdoulaye,614,12/11/2021,12/11/2021,Wichita,Kansas,Kansas City,Kansas,$593.10
+5,ahmed A ahmed,604,12/13/2021,12/13/2021,Saint Paul,Minnesota,Aurora,Illinois ,"$1,986.77"
+6,ahmed A ahmed,604,12/12/2021,12/13/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90"
+7,ahmed A ahmed,604,12/11/2021,12/11/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77"
+8,ahmed A ahmed,604,12/10/2021,12/11/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90"
+9,ahmed A ahmed,604,12/09/2021,12/09/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77"
+10,ahmed A ahmed,604,12/08/2021,12/09/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90"
+11,ahmed A ahmed,604,12/07/2021,12/07/2021,Saint Paul,Minnesota,Aurora,Illinois ,"$1,986.77"
+12,Abas Bher,616,12/13/2021,12/14/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90"
+13,Abas Bher,616,12/12/2021,12/12/2021,Saint Paul,Minnesota,Aurora,Illinois ,"$1,986.77"
+14,Abas Bher,616,12/11/2021,12/12/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90"
+15,Abas Bher,616,12/10/2021,12/10/2021,Saint Paul,Minnesota,Aurora,Illinois ,"$1,986.77"
+16,Isidore,602,12/11/2021,12/12/2021,Kansas City,Kansas,Long Beach,California ,"$5,095.76"
+17,Isidore,602,12/09/2021,12/10/2021,Long Beach,California,Kansas City,Kansas ,"$5,176.71"
+18,Mohamed Noor,601,12/10/2021,12/11/2021,Edgerton,Kansas,Long Beach,California,"$5,095.76"
+19,Said Ali,01,12/11/2021,12/11/2021,San Francisco,California ,Long Beach,California ,"$1,939.95"
+20,Said Ali,01,12/10/2021,12/10/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58"
+21,Abdoulaye,614,12/05/2021,12/05/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10
+22,Osman,108,12/02/2021,12/02/2021,Tolleson,Arizona ,North Las Vegas,Nevada ,$200.00
+23,Osman,108,11/30/2021,12/01/2021,Weatherford,Oklahoma,Memphis,Tennessee,$150.00
+24,Osman,108,11/23/2021,11/29/2021,Omaha,Nebraska ,Columbus,Ohio ,$150.00
