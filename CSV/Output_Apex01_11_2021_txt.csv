@@ -1,0 +1,21 @@
+DRIVER,TRUCKNUMBER,SHIP_DATE,DELIVER_DATE,ORIGIN,ORIGIN_STATE,DESTINATION,DEST_STATE,TOTAL_RATE,COMPANY
+ahmed A ahmed,604,10/28/2021,11/01/2021,Catoosa,Oklahoma ,Fremont,Nebraska ,"$1,600.00",Transplace Texas LP
+ahmed A ahmed,604,10/26/2021,10/27/2021,Lincoln,Nebraska ,Joplin,Missouri ,"$1,375.00",C H Robinson Worldwide Inc
+ahmed hassan,617,10/27/2021,11/01/2021,Davenport,Iowa,Commerce City,Colorado,"$3,800.00",Total Quality Logistics LLC
+Abdoulaye,614,10/27/2021,10/28/2021,Vandalia,Ohio ,Marion,Indiana ,"$1,100.00",C H Robinson Worldwide Inc
+Abdoulaye,614,10/29/2021,10/31/2021,Terre Haute,Indiana ,Greenville,North Carolina ,"$2,950.00",Redwood Multimodal
+Abdoulaye,614,10/26/2021,10/27/2021,Clinton,Iowa ,New Albany,Ohio ,"$1,650.00",U S Xpress Logistics
+Abdoulaye,614,10/25/2021,10/26/2021,Waco,Nebraska,Savanna,Illinois,"$1,300.00",Total Quality Logistics LLC
+abas,616,10/30/2021,10/31/2021,Harrisburg,Arkansas ,Omaha,Nebraska ,"$1,900.00",Spot Freight Inc
+abas,616,10/29/2021,10/30/2021,Charlotte,North Carolina ,Memphis,Tennessee ,"$1,800.00",C H Robinson Worldwide Inc
+abas,616,10/27/2021,10/29/2021,Underwood,Iowa ,Shelby,North Carolina ,"$3,200.00",C H Robinson Worldwide Inc
+isidore,602,10/29/2021,10/31/2021,Irvine,California ,North Platte,Nebraska ,"$7,500.00",2004 L Don Dodson Dr
+abdifatah,613,10/28/2021,10/31/2021,Lytton,Iowa ,Federalsburg,Maryland ,"$4,400.00",FitzMark LLC
+isidore,602,10/27/2021,10/28/2021,Smackover,Arkansas ,Los Banos,California ,"$4,500.00",Arkansas Best Corporation
+isidore,602,10/25/2021,10/27/2021,Totowa,New Jersey,Sulphur Springs,Texas,"$4,240.00",Jutta Transportation Services
+ahmed hassan,617,10/26/2021,10/27/2021,Wichita,Kansas ,Spring Valley,Illinois ,"$1,800.00",1102 Douglas Street
+ahmed hassan,617,10/25/2021,10/26/2021,Jackson,Mississippi,Park City,Kansas,"$1,975.00",Total Quality Logistics LLC
+mahad,603,10/28/2021,10/31/2021,Fond du Lac,Wisconsin ,Burlington,New Jersey ,"$4,000.00",Landstar Ranger Inc
+mahad,603,10/28/2021,10/28/2021,Franklin,Indiana ,Itasca,Illinois ,$800.00,Spot Freight Inc
+mahad,603,10/27/2021,10/28/2021,Crete,Nebraska ,Seymour,Indiana ,"$2,100.00",Landstar Ranger Inc
+mahad mohamed,603,10/15/2021,10/18/2021,Levittown,Pennsylvania ,Pico Rivera,California ,"$1,400.00",Mode Transportation LLC

@@ -1,0 +1,165 @@
+DRIVER,TRUCKNUMBER,SHIP_DATE,DELIVER_DATE,ORIGIN,ORIGIN_STATE,DESTINATION,DEST_STATE,TOTAL_RATE,COMPANY
+ahmed A ahmed,604,10/28/2021,11/01/2021,Catoosa,Oklahoma ,Fremont,Nebraska ,"$1,600.00",Transplace Texas LP
+ahmed A ahmed,604,10/26/2021,10/27/2021,Lincoln,Nebraska ,Joplin,Missouri ,"$1,375.00",C H Robinson Worldwide Inc
+ahmed hassan,617,10/27/2021,11/01/2021,Davenport,Iowa,Commerce City,Colorado,"$3,800.00",Total Quality Logistics LLC
+Abdoulaye,614,10/27/2021,10/28/2021,Vandalia,Ohio ,Marion,Indiana ,"$1,100.00",C H Robinson Worldwide Inc
+Abdoulaye,614,10/29/2021,10/31/2021,Terre Haute,Indiana ,Greenville,North Carolina ,"$2,950.00",Redwood Multimodal
+Abdoulaye,614,10/26/2021,10/27/2021,Clinton,Iowa ,New Albany,Ohio ,"$1,650.00",U S Xpress Logistics
+Abdoulaye,614,10/25/2021,10/26/2021,Waco,Nebraska,Savanna,Illinois,"$1,300.00",Total Quality Logistics LLC
+abas,616,10/30/2021,10/31/2021,Harrisburg,Arkansas ,Omaha,Nebraska ,"$1,900.00",Spot Freight Inc
+abas,616,10/29/2021,10/30/2021,Charlotte,North Carolina ,Memphis,Tennessee ,"$1,800.00",C H Robinson Worldwide Inc
+abas,616,10/27/2021,10/29/2021,Underwood,Iowa ,Shelby,North Carolina ,"$3,200.00",C H Robinson Worldwide Inc
+isidore,602,10/29/2021,10/31/2021,Irvine,California ,North Platte,Nebraska ,"$7,500.00",2004 L Don Dodson Dr
+abdifatah,613,10/28/2021,10/31/2021,Lytton,Iowa ,Federalsburg,Maryland ,"$4,400.00",FitzMark LLC
+isidore,602,10/27/2021,10/28/2021,Smackover,Arkansas ,Los Banos,California ,"$4,500.00",Arkansas Best Corporation
+isidore,602,10/25/2021,10/27/2021,Totowa,New Jersey,Sulphur Springs,Texas,"$4,240.00",Jutta Transportation Services
+ahmed hassan,617,10/26/2021,10/27/2021,Wichita,Kansas ,Spring Valley,Illinois ,"$1,800.00",1102 Douglas Street
+ahmed hassan,617,10/25/2021,10/26/2021,Jackson,Mississippi,Park City,Kansas,"$1,975.00",Total Quality Logistics LLC
+mahad,603,10/28/2021,10/31/2021,Fond du Lac,Wisconsin ,Burlington,New Jersey ,"$4,000.00",Landstar Ranger Inc
+mahad,603,10/28/2021,10/28/2021,Franklin,Indiana ,Itasca,Illinois ,$800.00,Spot Freight Inc
+mahad,603,10/27/2021,10/28/2021,Crete,Nebraska ,Seymour,Indiana ,"$2,100.00",Landstar Ranger Inc
+mahad mohamed,603,10/15/2021,10/18/2021,Levittown,Pennsylvania ,Pico Rivera,California ,"$1,400.00",Mode Transportation LLC
+Mohamed Ali,786,11/28/2021,11/29/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Mohamed Ali,786,11/30/2021,12/01/2021,Manilla,Indiana ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Mohamed Ali,786,12/02/2021,12/03/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Mohamed Ali,786,12/04/2021,12/05/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Ahmed Hassan,617,11/30/2021,12/03/2021,Hastings,Nebraska,Rydal,Georgia,"$3,600.00",Total Quality Logistics LLC
+Ahmed Hassan,617,12/03/2021,12/06/2021,Cleveland,Tennessee ,Englewood,Colorado ,"$4,000.00",AuptiX
+Sharmake Ibrahim,618,11/27/2021,11/28/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Sharmake Ibrahim,618,11/29/2021,11/30/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/01/2021,12/02/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/03/2021,12/04/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/05/2021,12/06/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Abdifatah Ismail,613,11/30/2021,12/03/2021,Alda,Nebraska ,Portland,Maine ,"$5,700.00",13410 Sutton Park Dr S
+Abdifatah Ismail,613,12/03/2021,12/07/2021,South Deerfield,Massachusetts ,Henderson,Colorado ,"$4,600.00",13410 Sutton Park Dr S
+Mahad Mohamed,603,11/30/2021,12/02/2021,Norton,Kansas,Nanticoke,Pennsylvania,"$4,500.00",Total Quality Logistics LLC
+Mahad Mohamed,603,12/02/2021,12/03/2021,Montgomery,Pennsylvania ,Newport,Michigan ,"$1,325.00",Axle Logistics LLC
+Mahad Mohamed,603,11/21/2021,11/21/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Mahad Mohamed,603,12/03/2021,12/05/2021,Bay City,Michigan ,North Platte,Nebraska ,"$3,500.00",Best Dedicated Solutions LLC
+Abas Bher,616,11/27/2021,11/28/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Ahmed A Ahmed,604,11/27/2021,11/27/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77",10 Roads Logistics LLC
+Ahmed A Ahmed,604,11/28/2021,11/29/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Ahmed A Ahmed,604,11/29/2021,11/29/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77",10 Roads Logistics LLC
+Ahmed A Ahmed,604,11/30/2021,12/01/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Ahmed A Ahmed,604,12/02/2021,12/03/2021,Minneapolis,Minnesota,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Ahmed A Ahmed,604,12/03/2021,12/03/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77",10 Roads Logistics LLC
+Ahmed A Ahmed,604,12/04/2021,12/05/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Ahmed A Ahmed,604,12/05/2021,12/05/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77",10 Roads Logistics LLC
+Ahmed A Ahmed,604,12/06/2021,12/07/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Osman,108,11/23/2021,11/24/2021,Clearwater,Nebraska ,Newton,Kansas ,"$1,550.00",TA Services Inc
+Osman,108,11/26/2021,11/27/2021,Aurora,Nebraska ,Ardmore,Oklahoma ,"$2,695.70",5050 Poplar Avenue
+Osman,108,11/23/2021,11/29/2021,Omaha,Nebraska ,Columbus,Ohio ,$150.00,Coyote Logistics LLC
+Osman,108,12/01/2021,12/02/2021,Oklahoma City,Oklahoma ,Southaven,Mississippi ,"$1,300.00",Fusion Logistics Services LLC
+Osman,108,11/30/2021,12/01/2021,Weatherford,Oklahoma,Memphis,Tennessee,$150.00,Integrity Express Logistics LLC
+Osman,108,12/02/2021,12/02/2021,Tolleson,Arizona ,North Las Vegas,Nevada ,$200.00,GlobalTranz
+Osman,108,12/02/2021,12/03/2021,Harrisburg,Arkansas ,Austin,Texas ,"$2,150.00",1475 Boettler Rd
+Osman,108,12/03/2021,12/05/2021,San Antonio,Texas,Frisco,Colorado,"$3,150.00",Total Quality Logistics LLC
+Osman,108,12/03/2021,12/05/2021,San Antonio,Texas,Frisco,Colorado,"$3,150.00",Total Quality Logistics LLC
+Abas Bher,616,12/08/2021,12/08/2021,Saint Paul,Minnesota ,Aurora,Illinois ,"$1,986.77",10 Roads Logistics LLC
+Abas Bher,616,12/09/2021,12/10/2021,Minneapolis,Minnesota ,West Fargo,North Dakota ,"$1,945.90",10 Roads Logistics LLC
+Mohamed Noor,601,12/08/2021,12/09/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/03/2021,12/04/2021,Riverside,Missouri ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+isidore,602,12/05/2021,12/06/2021,Los Angeles,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Mohamed Abdul Ismail,142,12/02/2021,12/02/2021,San Francisco,California ,Long Beach,California ,"$1,844.15",10 Roads Logistics LLC
+Mohamed Abdul Ismail,142,12/03/2021,12/03/2021,West Sacramento,California,San Francisco,California ,"$1,836.45",10 Roads Logistics LLC
+Mohamed Abdul Ismail,142,12/04/2021,12/04/2021,San Francisco,California ,Long Beach,California ,"$1,844.15",10 Roads Logistics LLC
+Abdoulaye,614,11/29/2021,11/29/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,11/30/2021,11/30/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Abdoulaye,614,12/01/2021,12/01/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Abdoulaye,614,12/02/2021,12/02/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Abdoulaye,614,12/02/2021,12/02/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/03/2021,12/03/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Abdoulaye,614,12/03/2021,12/03/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/04/2021,12/04/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Abdoulaye,614,12/04/2021,12/04/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/05/2021,12/05/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+Osman,108,11/23/2021,11/29/2021,Omaha,Nebraska ,Columbus,Ohio ,$150.00,Coyote Logistics LLC
+Osman,108,11/30/2021,12/01/2021,Weatherford,Oklahoma,Memphis,Tennessee,$150.00,Integrity Express Logistics LLC
+Osman,108,12/02/2021,12/02/2021,Tolleson,Arizona ,North Las Vegas,Nevada ,$200.00,GlobalTranz
+Isidore,602,11/29/2021,11/30/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Mohamed Abdul Ismail,142,12/05/2021,12/05/2021,West Sacramento,California,San Francisco,California ,"$1,836.15",10 Roads Logistics LLC
+Mohamed Abdul Ismail,142,12/06/2021,12/06/2021,San Francisco,California ,Long Beach,California ,"$1,844.15",10 Roads Logistics LLC
+Abdoulaye,614,11/30/2021,11/30/2021,Wichita,Kansas,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/01/2021,12/01/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/05/2021,12/05/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Abdoulaye,614,12/06/2021,12/06/2021,Edgerton,Kansas ,Wichita,Kansas ,$603.00,10 Roads Logistics LLC
+sharmake,618,11/08/2021,11/11/2021,La Crosse,Wisconsin ,Reno,Nevada ,"$4,000.00",Megacorp Logistics LLC
+Abdoulaye,614,11/12/2021,11/15/2021,Macedonia,Ohio ,Flowery Branch,Georgia ,"$2,500.00",C H Robinson Worldwide Inc
+Abdoulaye,614,11/10/2021,11/11/2021,Charleston,Tennessee ,Cleveland,Ohio ,"$1,770.00",C H Robinson Worldwide Inc
+Abdoulaye,614,11/08/2021,11/09/2021,Lock Haven,Pennsylvania ,Indianapolis,Indiana ,"$1,550.00",Spot Freight Inc
+ahmed A ahmed,604,11/12/2021,11/15/2021,Millington,Tennessee ,Seward,Nebraska ,"$2,650.00",Building A
+ahmed A ahmed,604,11/10/2021,11/11/2021,Dayton,Tennessee ,Olive Branch,Mississippi ,$950.00,C H Robinson Worldwide Inc
+ahmed A ahmed,604,11/09/2021,11/10/2021,Indianapolis,Indiana ,Chattanooga,Tennessee ,"$1,550.00",C H Robinson Worldwide Inc
+ahmed A ahmed,604,11/08/2021,11/09/2021,Lincoln,Nebraska ,Frankfort,Indiana ,"$2,000.00",Navajo Expedited LLC
+abas,617,11/09/2021,11/10/2021,Louisville,Kentucky ,Lincoln,Nebraska ,"$1,900.00",Attn: Angela McGowen
+abas,616,11/08/2021,11/09/2021,Kansas City,Kansas,Nicholasville,Kentucky,"$1,500.00",Total Quality Logistics LLC
+ahmed hassan,617,11/12/2021,11/14/2021,Kansas City,Missouri ,Loveland,Colorado ,"$2,245.00",13777 Ballantyne Corporate Place
+ahmed hassan,617,11/11/2021,11/11/2021,McCook,Nebraska ,Manhattan,Kansas ,"$1,100.00",GIX Logistics Inc
+ahmed hassan,617,11/10/2021,11/11/2021,Hastings,Nebraska ,Goodland,Kansas ,"$1,500.00",J B Hunt Transport Inc
+abdifatah,613,11/12/2021,11/15/2021,Manton,Michigan,Boulder,Colorado,"$4,000.00",Total Quality Logistics LLC
+abdifatah,613,11/10/2021,11/11/2021,Schuylkill Haven,Pennsylvania ,Lansing,Michigan ,"$1,500.00",Central Marketing Transport Services LLC
+abdifatah,613,11/08/2021,11/10/2021,Norfolk,Nebraska ,East Greenville,Pennsylvania ,"$3,600.00",Integrity Express Logistics LLC
+mahad,603,11/10/2021,11/12/2021,McCook,Nebraska ,Carlisle,Pennsylvania ,"$4,000.00",13777 Ballantyne Corporate Place
+mahad,603,11/12/2021,11/15/2021,East Rutherford,New Jersey ,Aurora,Colorado ,"$4,500.00",1000 Riverside Dr
+isidore,602,11/09/2021,11/10/2021,Hillsboro,Texas ,Albuquerque,New Mexico ,"$1,900.00",FitzMark LLC
+sharmake,618,11/12/2021,11/15/2021,San Diego,California ,Commercial Point,Ohio ,"$8,200.00",8505 Baycenter Rd
+sharmake,618,11/10/2021,11/11/2021,Reno,Nevada ,San Diego,California ,"$1,500.00",Echo Global Logistics Inc
+Osman,108,11/23/2021,11/29/2021,Omaha,Nebraska ,Columbus,Ohio ,$150.00,Coyote Logistics LLC
+Osman,108,11/30/2021,12/01/2021,Weatherford,Oklahoma,Memphis,Tennessee,$150.00,Integrity Express Logistics LLC
+Osman,108,12/02/2021,12/02/2021,Tolleson,Arizona ,North Las Vegas,Nevada ,$200.00,GlobalTranz
+Abdoulaye,614,12/05/2021,12/05/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Said Ali,01,12/11/2021,12/11/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Mohamed Noor,601,12/10/2021,12/11/2021,Edgerton,Kansas,Long Beach,California,"$5,095.76",10 Roads Logistics LLC
+Isidore,602,12/09/2021,12/10/2021,Long Beach,California,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/11/2021,12/12/2021,Kansas City,Kansas,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Mohamed Noor,601,12/18/2021,12/19/2021,Edgerton,Kansas ,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Mohamed Noor,601,12/20/2021,12/21/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/17/2021,12/18/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/19/2021,12/20/2021,Edgerton,Kansas,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/15/2021,12/16/2021,Long Beach,California,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/17/2021,12/18/2021,Edgerton,Kansas,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/19/2021,12/20/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+mahad,603,12/16/2021,12/16/2021,Plainfield,Indiana ,Naperville,Illinois ,$850.00,National Transportation Group Inc
+mahad,603,12/17/2021,12/19/2021,North Aurora,Illinois ,North Platte,Nebraska ,"$3,100.00",Test Drive LLC
+Said Ali,001,12/13/2021,12/13/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Said Ali,001,12/14/2021,12/14/2021,West Sacramento,California,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Said Ali,001,12/15/2021,12/15/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Said Ali,001,12/16/2021,12/16/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Said Ali,001,12/17/2021,12/17/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Said Ali,001,12/18/2021,12/18/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Said Ali,001,12/19/2021,12/19/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+abdifatah,613,11/19/2021,11/22/2021,Pennsburg,Pennsylvania ,Longmont,Colorado ,"$4,500.00",Mode Transportation LLC
+abdifatah,613,11/16/2021,11/19/2021,Columbus,Nebraska ,Spencer,Massachusetts ,"$5,100.00",Integrity Express Logistics LLC
+mahad,603,11/18/2021,11/18/2021,Kearney,Nebraska ,Des Plaines,Illinois ,"$1,800.00",13410 Sutton Park Dr S
+mahad,603,11/19/2021,11/20/2021,Wauwatosa,Wisconsin ,Grand Island,Nebraska ,"$2,600.00",Lee Way Global Logistics
+ahmed hassan,617,11/19/2021,11/21/2021,Jeffersonville,Indiana ,Loveland,Colorado ,"$4,000.00",9756 International Blvd
+ahmed hassan,617,11/18/2021,11/19/2021,Savanna,Illinois,Greensburg,Indiana,"$1,400.00",Total Quality Logistics LLC
+ahmed hassan,617,11/17/2021,11/18/2021,Grand Island,Nebraska ,East Moline,Illinois ,"$1,650.00",C H Robinson Worldwide Inc
+ahmed hassan,617,11/16/2021,11/17/2021,Aurora,Colorado ,North Platte,Nebraska ,"$1,000.00",Navajo Expedited LLC
+abas,616,11/19/2021,11/23/2021,Sidney,Ohio ,Pueblo,Colorado ,"$4,600.00",C H Robinson Worldwide Inc
+abas,616,11/18/2021,11/19/2021,Indianapolis,Indiana ,Tipp City,Ohio ,$900.00,C H Robinson Worldwide Inc
+abas,616,11/17/2021,11/17/2021,Lebanon,Tennessee,Indianapolis,Indiana,"$2,800.00",Total Quality Logistics LLC
+abas,616,11/15/2021,11/16/2021,Lincoln,Nebraska ,Van Wert,Ohio ,"$1,850.00",C H Robinson Worldwide Inc
+Abdoulaye,614,11/19/2021,11/20/2021,Kenilworth,New Jersey ,Columbia City,Indiana ,"$1,850.00",C H Robinson Worldwide Inc
+Abdoulaye,614,11/16/2021,11/17/2021,Austell,Georgia ,Plainfield,Indiana ,"$1,400.00",Nolan Transportation Group LLC
+Mohamed Ismail,142,12/20/2021,12/20/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Mohamed Ismail,142,12/19/2021,12/19/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Mohamed Ismail,142,12/18/2021,12/18/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Mohamed Ismail,142,12/17/2021,12/17/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Mohamed Ismail,142,12/16/2021,12/16/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Mohamed Ismail,142,12/15/2021,12/15/2021,West Sacramento,California ,San Francisco,California ,"$2,165.58",10 Roads Logistics LLC
+Mohamed Ismail,142,12/14/2021,12/14/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+mahad,603,12/17/2021,12/19/2021,North Aurora,Illinois ,North Platte,Nebraska ,"$3,100.00",Test Drive LLC
+mahad,603,12/16/2021,12/16/2021,Plainfield,Indiana ,Naperville,Illinois ,$850.00,National Transportation Group Inc
+Sharmake Ibrahim,618,12/19/2021,12/20/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Sharmake Ibrahim,618,12/15/2021,12/16/2021,Long Beach,California,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/19/2021,12/20/2021,Edgerton,Kansas,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Isidore,602,12/17/2021,12/18/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Mohamed Noor,601,12/20/2021,12/21/2021,Long Beach,California ,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Isidore,602,12/11/2021,12/12/2021,Kansas City,Kansas,Long Beach,California ,"$5,095.76",10 Roads Logistics LLC
+Isidore,602,12/09/2021,12/10/2021,Long Beach,California,Kansas City,Kansas ,"$5,176.71",10 Roads Logistics LLC
+Said Ali,01,12/11/2021,12/11/2021,San Francisco,California ,Long Beach,California ,"$1,939.95",10 Roads Logistics LLC
+Abdoulaye,614,12/05/2021,12/05/2021,Wichita,Kansas ,Kansas City,Kansas ,$593.10,10 Roads Logistics LLC
+Osman,108,12/02/2021,12/02/2021,Tolleson,Arizona ,North Las Vegas,Nevada ,$200.00,GlobalTranz
+Osman,108,11/30/2021,12/01/2021,Weatherford,Oklahoma,Memphis,Tennessee,$150.00,Integrity Express Logistics LLC
+Osman,108,11/23/2021,11/29/2021,Omaha,Nebraska ,Columbus,Ohio ,$150.00,Coyote Logistics LLC
