@@ -11,6 +11,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import glob
+import datetime
 
 
 
@@ -36,7 +37,7 @@ def textToCsv():
     # Apex_text_data = open("ExtractedData.txt", "r", encoding="utf-8")
     for Text_path in glob.glob("Output/*.txt", recursive=True):
         spacelesss = re.sub("\s", "", Text_path)
-        extensionless = re.sub(".pdf", "", spacelesss)
+        extensionless = re.sub(".txt", "", spacelesss)
         slashless = re.sub('\W', "_", extensionless )
         shortf = re.sub('Library_', "", slashless )
         opened_file = open(Text_path, "r", encoding="utf-8")
@@ -57,6 +58,10 @@ def textToCsv():
                     PickTown, *PickSt = pickPlace.split(",")
                     pickState1 = "".join(PickSt).strip()
                     pickState = re.sub("\d", "", pickState1)
+                    try:
+                        time_object = datetime.datetime.strptime(pickDate, '%m/%d/%Y')
+                    except ValueError as e:
+                        print('ValueError:', e)
                 elif Invoice_No.match(line):
                     Invoice = line.split()[-1]    
                 elif Drop.match(line):
@@ -65,6 +70,10 @@ def textToCsv():
                     DropTown, *DropSt = dropPlace.split(",")
                     DropState1 = "".join(DropSt).strip()
                     DropState = re.sub("\d", "", DropState1)
+                    try:
+                        drop_time = datetime.datetime.strptime(dropDate, '%m/%d/%Y')
+                    except ValueError as e:
+                        print('ValueError:', e)                    
                 elif company.search(line):
                     spaceless =(line.strip())
                     # print(spaceless)
@@ -73,7 +82,8 @@ def textToCsv():
                         # print(billing)
                 elif Amount.match(line):
                     rateAmount = line.split()[-2]
-                    line_items.append(Inv(DriveName,TruckNumber,pickDate,dropDate,PickTown,pickState,DropTown,DropState,rateAmount, billing, Invoice, Refference))
+                    amounts = re.sub("\\$", "", rateAmount)
+                    line_items.append(Inv(DriveName,TruckNumber,time_object,drop_time,PickTown,pickState,DropTown,DropState,amounts, billing, Invoice, Refference))
         df = pd.DataFrame(line_items)
         print(df.head)
         df.to_csv(f"CSV/{shortf}.csv", index=False)
