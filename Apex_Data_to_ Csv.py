@@ -56,8 +56,10 @@ def textToCsv():
                     title, *placeName, pickDate = line.split()
                     pickPlace = " ".join(placeName)
                     PickTown, *PickSt = pickPlace.split(",")
-                    pickState1 = "".join(PickSt).strip()
-                    pickState = re.sub("\d", "", pickState1)
+                    pickState1 = "".join(PickSt).strip("")
+                    pickstate2 = re.sub("\d", "", pickState1) 
+                    spaceremove1 =re.sub("\s+$", "", pickstate2)
+                    pickState = re.sub("^\s", "", spaceremove1)
                     try:
                         time_object = datetime.datetime.strptime(pickDate, '%m/%d/%Y')
                     except ValueError as e:
@@ -68,8 +70,10 @@ def textToCsv():
                     title, *placeName, dropDate = line.split()
                     dropPlace = " ".join(placeName)
                     DropTown, *DropSt = dropPlace.split(",")
-                    DropState1 = "".join(DropSt).strip()
-                    DropState = re.sub("\d", "", DropState1)
+                    DropState1 = "".join(DropSt)
+                    DropState2 = re.sub("\d", "", DropState1)
+                    spaceremove =re.sub("\s+$", "", DropState2)
+                    DropState = re.sub("^\s|\s$", "", spaceremove)
                     try:
                         drop_time = datetime.datetime.strptime(dropDate, '%m/%d/%Y')
                     except ValueError as e:

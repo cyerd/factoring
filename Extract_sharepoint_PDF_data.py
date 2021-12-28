@@ -25,7 +25,7 @@ DriverName = re.compile(r"Driver.*")
 TruckNo = re.compile(r"Truck Number.*") 
 Amount = re.compile(r"Invoice Total .*")
 
-Inv = namedtuple('Inv', 'DRIVER TRUCKNUMBER SHIP_DATE DELIVER_DATE ORIGIN ORIGIN_STATE  DESTINATION DEST_STATE  TOTAL_RATE COMPANY INVOICE')
+Inv = namedtuple('Inv', 'DRIVER TRUCKNUMBER SHIP_DATE DELIVER_DATE ORIGIN ORIGIN_STATE ZIPCODE  DESTINATION DEST_STATE ZIP TOTAL_RATE COMPANY INVOICE')
 line_items =[]
 
 
@@ -33,7 +33,7 @@ def textToCsv():
     # Apex_text_data = open("ExtractedData.txt", "r", encoding="utf-8")
     for Text_path in glob.glob("Output/*.txt", recursive=True):
         spacelesss = re.sub("\s", "", Text_path)
-        extensionless = re.sub(".pdf", "", spacelesss)
+        extensionless = re.sub(".txt", "", spacelesss)
         slashless = re.sub('\W', "_", extensionless )
         shortf = re.sub('Library_', "", slashless )
         opened_file = open(Text_path, "r", encoding="utf-8")
@@ -51,12 +51,14 @@ def textToCsv():
                     pickPlace = " ".join(placeName)
                     PickTown, *PickSt = pickPlace.split(",")
                     pickState1 = "".join(PickSt).strip()
+                    zipcode1 = pickState1.split()[-1]
                     pickState = re.sub("\d", "", pickState1)    
                 elif Drop.match(line):
                     title, *placeName, dropDate = line.split()
                     dropPlace = " ".join(placeName)
                     DropTown, *DropSt = dropPlace.split(",")
                     DropState1 = "".join(DropSt).strip()
+                    zipcode2 = (DropState1.split()[-1])
                     DropState = re.sub("\d", "", DropState1)
                 elif Invoice_No.match(line):
                     Invoice = line.split()[-1]
@@ -68,7 +70,7 @@ def textToCsv():
                         # print(billing)
                 elif Amount.match(line):
                     rateAmount = line.split()[-2]
-                    line_items.append(Inv(DriveName,TruckNumber,pickDate,dropDate,PickTown,pickState,DropTown,DropState,rateAmount, billing, Invoice))
+                    line_items.append(Inv(DriveName,TruckNumber,pickDate,dropDate,PickTown,pickState,zipcode1,DropTown,DropState,zipcode2,rateAmount, billing, Invoice))
         df = pd.DataFrame(line_items)
         print(df.head)
         df.to_csv(f"CSV/{shortf}.csv", index=False)
