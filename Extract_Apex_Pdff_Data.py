@@ -17,14 +17,14 @@ import glob
 def extractText():    
     text_output = open("ExtractedData.txt", "+a", encoding="utf-8")
     
-    for PDF_Path in glob.glob("Sharepoint Library/**/*.pdf", recursive=True):
+    for PDF_Path in glob.glob("Library/*.pdf", recursive=True):
         filename = PDF_Path
         
         spacelesss = re.sub("\s", "", PDF_Path)
         extensionless = re.sub(".pdf", "", spacelesss)
         slashless = re.sub('\W', "_", extensionless )
         shortf = re.sub('PDFLibrary_', "", slashless )
-        Output_pdf = open(f"Output/LIB/{shortf}.txt", "w", encoding="utf-8")   
+        Output_pdf = open(f"Output/{shortf}.txt", "w", encoding="utf-8")   
         with pdfplumber.open(PDF_Path) as doc:
             for page in doc.pages:
                 dataz = page.extract_text()

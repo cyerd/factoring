@@ -1,0 +1,32 @@
+DRIVER,TRUCKNUMBER,SHIP_DATE,DELIVER_DATE,ORIGIN,ORIGIN_STATE,ZIPCODE,DESTINATION,DEST_STATE,ZIP,TOTAL_RATE,COMPANY,INVOICE,REFFERENCE
+Sharmake Ibrahim,618,2021-12-28,2021-12-29,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1406,4080453
+Sharmake Ibrahim,618,2021-12-26,2021-12-27,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1405,4069267
+Sharmake Ibrahim,618,2021-12-23,2021-12-24,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1404,4040461
+Said Ali,001,2021-12-26,2021-12-26,Los Angeles,California,90052,San Francisco,California,94124,"2,165.58",10 Roads Logistics LLC,1403,4069280
+Said Ali,001,2021-12-25,2021-12-25,West Sacramento,California,95691,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1402,4060805
+Said Ali,001,2021-12-24,2021-12-24,Los Angeles,California,90052,San Francisco,California,94124,"2,165.58",10 Roads Logistics LLC,1401,4050726
+Said Ali,001,2021-12-23,2021-12-23,West Sacramento,California,95691,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1400,4040098
+Said Ali,001,2021-12-22,2021-12-22,Los Angeles,California,90052,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1399,4035398
+Said Ali,001,2021-12-21,2021-12-21,West Sacramento,California,95691,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1398,4029708
+Said Ali,001,2021-12-20,2021-12-20,Los Angeles,California,90052,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1397,4022469
+Isidore,602,2021-12-28,2021-12-29,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1396,4080436
+Isidore,602,2021-12-26,2021-12-27,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1395,4069276
+Isidore,602,2021-12-23,2021-12-24,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1394,4040462
+Isidore,602,2021-12-21,2021-12-22,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1393,4029648
+Mohamed Noor,601,2021-12-29,2021-12-30,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1392,4082861
+Mohamed Noor,601,2021-12-27,2021-12-28,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1391,4074651
+Mohamed Noor,601,2021-12-24,2021-12-25,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1390,4050713
+Mohamed Noor,601,2021-12-22,2021-12-23,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1389,4035032
+Mohamed Ismail,142,2021-12-27,2021-12-27,West Sacramento,California,95691,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1388,4074663
+Mohamed Ismail,142,2021-12-26,2021-12-26,San Francisco,California,94121,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1387,4069277
+Mohamed Ismail,142,2021-12-25,2021-12-25,West Sacramento,California,95691,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1386,4060808
+Mohamed Ismail,142,2021-12-24,2021-12-24,San Francisco,California,94121,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1385,4050721
+Mohamed Ismail,142,2021-12-23,2021-12-23,West Sacramento,California,95691,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1384,4040242
+Mohamed Ismail,142,2021-12-22,2021-12-22,San Francisco,California,94121,Long Beach,California,90805,"1,939.95",10 Roads Logistics LLC,1383,4035379
+Mohamed Ismail,142,2021-12-21,2021-12-21,West Sacramento,California,95691,San Francisco,California,94121,"2,165.58",10 Roads Logistics LLC,1382,4029725
+Abdoulaye,614,2021-12-15,2021-12-15,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1365,3974518
+Abas Bher,616,2021-12-15,2021-12-16,Minneapolis,Minnesota,55401,West Fargo,North Dakota,58078,"1,945.90",10 Roads Logistics LLC,1361,3974199
+mahad,603,2021-12-17,2021-12-19,North Aurora,Illinois,60542,North Platte,Nebraska,69101,"3,100.00",Test Drive LLC,1340,84581
+Osman,108,2021-12-02,2021-12-02,Tolleson,Arizona,85353,North Las Vegas,Nevada,89032,200.00,GlobalTranz,1224,23455011
+Osman,108,2021-11-30,2021-12-01,Weatherford,Oklahoma,Oklahoma,Memphis,Tennessee,Tennessee,150.00,Integrity Express Logistics LLC,1223,1304875B
+Osman,108,2021-11-23,2021-11-29,Omaha,Nebraska,68127,Columbus,Ohio,43232,150.00,Coyote Logistics LLC,1221,25333182
