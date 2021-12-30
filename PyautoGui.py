@@ -115,7 +115,7 @@ with open('DUBAI EXPRESS.csv') as csv_file:
             # save load button
             pyautogui.moveTo(890, 866)
             # pyautogui.click()
-            sleep(5555555555555555555)
+            sleep(5)
 
 
 
