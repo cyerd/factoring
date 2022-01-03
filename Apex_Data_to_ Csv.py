@@ -93,5 +93,5 @@ def textToCsv():
                     line_items.append(Inv(DriveName,TruckNumber,time_object,drop_time,PickTown,pickState,zipcode1,DropTown,DropState,zipcode2,amounts, billing, Invoice, Refference))
         df = pd.DataFrame(line_items)
         print(df.head)
-        df.to_csv(f"CSV/{shortf}.csv", index=False)
+        df.to_excel("CSV/DUBAI EXPRESS.xlsx", sheet_name='SCHD', index=False)
 textToCsv() 

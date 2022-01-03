@@ -1,20 +1,20 @@
 DRIVER,TRUCKNUMBER,SHIP_DATE,DELIVER_DATE,ORIGIN,ORIGIN_STATE,ZIPCODE,DESTINATION,DEST_STATE,ZIP,TOTAL_RATE,COMPANY,INVOICE,REFFERENCE
-Abdoulaye,614,2021-12-24,2021-12-24,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1413,4050789
-Abdoulaye,614,2021-12-24,2021-12-24,Edgerton,Kansas,66021,Wichita,Kansas,67276,603.00,10 Roads Logistics LLC,1412,4050643
-Abdoulaye,614,2021-12-23,2021-12-23,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1411,4039842
-Abdoulaye,614,2021-12-23,2021-12-23,Edgerton,Kansas,66021,Wichita,Kansas,67276,603.00,10 Roads Logistics LLC,1410,4039861
-Abdoulaye,614,2021-12-22,2021-12-22,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1409,4035684
-Abdoulaye,614,2021-12-22,2021-12-22,Edgerton,Kansas,66021,Wichita,Kansas,67276,603.00,10 Roads Logistics LLC,1408,4034863
-Abdoulaye,614,2021-12-21,2021-12-21,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1407,4030029
-Sharmake Ibrahim,618,2021-12-28,2021-12-29,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1406,4080453
-Sharmake Ibrahim,618,2021-12-23,2021-12-24,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1404,4040461
-Isidore,602,2021-12-28,2021-12-29,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1396,4080436
-Isidore,602,2021-12-26,2021-12-27,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1395,4069276
-Isidore,602,2021-12-23,2021-12-24,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1394,4040462
-Isidore,602,2021-12-21,2021-12-22,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1393,4029648
-Abdoulaye,614,2021-12-15,2021-12-15,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.10,10 Roads Logistics LLC,1365,3974518
-Abas Bher,616,2021-12-15,2021-12-16,Minneapolis,Minnesota,55401,West Fargo,North Dakota,58078,"1,945.90",10 Roads Logistics LLC,1361,3974199
-mahad,603,2021-12-17,2021-12-19,North Aurora,Illinois,60542,North Platte,Nebraska,69101,"3,100.00",Test Drive LLC,1340,84581
-Osman,108,2021-12-02,2021-12-02,Tolleson,Arizona,85353,North Las Vegas,Nevada,89032,200.00,GlobalTranz,1224,23455011
-Osman,108,2021-11-30,2021-12-01,Weatherford,Oklahoma,Oklahoma,Memphis,Tennessee,Tennessee,150.00,Integrity Express Logistics LLC,1223,1304875B
-Osman,108,2021-11-23,2021-11-29,Omaha,Nebraska,68127,Columbus,Ohio,43232,150.00,Coyote Logistics LLC,1221,25333182
+Abdoulaye,614,24/12/2021,24/12/2021,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.1,10 Roads Logistics LLC,1413,4050789
+Abdoulaye,614,24/12/2021,24/12/2021,Edgerton,Kansas,66021,Wichita,Kansas,67276,603,10 Roads Logistics LLC,1412,4050643
+Abdoulaye,614,23/12/2021,23/12/2021,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.1,10 Roads Logistics LLC,1411,4039842
+Abdoulaye,614,23/12/2021,23/12/2021,Edgerton,Kansas,66021,Wichita,Kansas,67276,603,10 Roads Logistics LLC,1410,4039861
+Abdoulaye,614,22/12/2021,22/12/2021,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.1,10 Roads Logistics LLC,1409,4035684
+Abdoulaye,614,22/12/2021,22/12/2021,Edgerton,Kansas,66021,Wichita,Kansas,67276,603,10 Roads Logistics LLC,1408,4034863
+Abdoulaye,614,21/12/2021,21/12/2021,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.1,10 Roads Logistics LLC,1407,4030029
+Sharmake Ibrahim,618,28/12/2021,29/12/2021,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1406,4080453
+Sharmake Ibrahim,618,23/12/2021,24/12/2021,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1404,4040461
+Isidore,602,28/12/2021,29/12/2021,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1396,4080436
+Isidore,602,26/12/2021,27/12/2021,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1395,4069276
+Isidore,602,23/12/2021,24/12/2021,Edgerton,Kansas,66021,Long Beach,California,90805,"5,095.76",10 Roads Logistics LLC,1394,4040462
+Isidore,602,21/12/2021,22/12/2021,Long Beach,California,90805,Kansas City,Kansas,66106,"5,176.71",10 Roads Logistics LLC,1393,4029648
+Abdoulaye,614,15/12/2021,15/12/2021,Wichita,Kansas,67276,Kansas City,Kansas,66106,593.1,10 Roads Logistics LLC,1365,3974518
+Abas Bher,616,15/12/2021,16/12/2021,Minneapolis,Minnesota,55401,West Fargo,North Dakota,58078,"1,945.90",10 Roads Logistics LLC,1361,3974199
+mahad,603,17/12/2021,19/12/2021,North Aurora,Illinois,60542,North Platte,Nebraska,69101,"3,100.00",Test Drive LLC,1340,84581
+Osman,108,02/12/2021,02/12/2021,Tolleson,Arizona,85353,North Las Vegas,Nevada,89032,200,GlobalTranz,1224,23455011
+Osman,108,30/11/2021,01/12/2021,Weatherford,Oklahoma,Oklahoma,Memphis,Tennessee,Tennessee,150,Integrity Express Logistics LLC,1223,1304875B
+Osman,108,23/11/2021,29/11/2021,Omaha,Nebraska,68127,Columbus,Ohio,43232,150,Coyote Logistics LLC,1221,25333182
